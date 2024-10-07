@@ -3,7 +3,7 @@ import 'package:get/get.dart';
 import 'package:ridesense/location.dart';
 import 'package:ridesense/search%20location.dart';
 
-void main() {
+void main() async{
   runApp(const MyApp());
 }
 

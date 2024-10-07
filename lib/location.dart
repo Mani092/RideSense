@@ -43,8 +43,8 @@ print(controller.long);
 
       body: GoogleMap (
 
-        // myLocationEnabled: true,
-        // myLocationButtonEnabled: true,
+        myLocationEnabled: true,
+        myLocationButtonEnabled: true,
         // zoomGesturesEnabled: true,
         markers: {marker},
         initialCameraPosition: cammpos,
